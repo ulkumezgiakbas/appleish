@@ -3,7 +3,7 @@
 A minimal, Apple-inspired landing page built with **vanilla HTML/CSS/JS** and a tiny **Flask** backend.  
 Focus: typography, clean layout, micro-animations—without heavy front-end frameworks.
 
-![hero](docs/hero.png)
+
 
 ## ✨ Features
 - Sticky glass navbar, large clean typography
