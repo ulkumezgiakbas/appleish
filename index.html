@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Apple Clone</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="logo"></div>
+    <ul class="nav-links">
+      <li>Mac</li>
+      <li>iPad</li>
+      <li>iPhone</li>
+      <li>Watch</li>
+      <li>AirPods</li>
+      <li>TV & Home</li>
+      <li>Only on Apple</li>
+      <li>Support</li>
+    </ul>
+  </nav>
+
+  <section class="hero">
+    <h1>iPhone 15 Pro</h1>
+    <p>Titanium. So strong. So light. So Pro.</p>
+    <div class="buttons">
+      <a href="#">Learn more</a>
+      <a href="#">Buy</a>
+    </div>
+  </section>
+
+  <section class="hero dark">
+    <h1>MacBook Air</h1>
+    <p>Supercharged by M3.</p>
+    <div class="buttons">
+      <a href="#">Learn more</a>
+      <a href="#">Buy</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>Clone of Apple.com for educational purposes only 🍏</p>
+  </footer>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
