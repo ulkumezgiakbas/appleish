@@ -39,3 +39,6 @@ python app.py
 
 
 This project is inspired by Apple’s design language for learning purposes; not affiliated with or endorsed by Apple.
+
+<img width="1920" height="1049" alt="Screenshot 2025-09-20 at 15 09 38" src="https://github.com/user-attachments/assets/fd9c06fd-a5cd-4662-9fd0-3c0fd83049a3" />
+
